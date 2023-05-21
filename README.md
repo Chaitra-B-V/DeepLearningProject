@@ -1,6 +1,8 @@
 # DeepLearningProject
 
 Usage
+
+
 Put the text you want to transcribe in input.txt, and run
 
 python main.py --transcribe --play
@@ -13,6 +15,8 @@ The labels used in this project are {'sex': 'male/female', 'age': 'young/old', '
 You can set the narrator voice in main.py to any voice you like by giving it the voice_id.
 
 Options
+
+
 The following options are available when running main.py:
 
 --transcribe: Transcribes the input text and saves it to transcript.txt.
