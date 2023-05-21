@@ -30,5 +30,9 @@ You can set the narrator voice in main.py to any voice you like by giving it the
 The following options are available when running main.py:
 
 --transcribe: Transcribes the input text and saves it to transcript.txt.
+
+
 --play: Reads the transcribed text line by line using TTS.
+
+
 --introduce: Provides a brief introduction of the characters using TTS.
