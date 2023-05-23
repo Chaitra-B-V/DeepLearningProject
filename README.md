@@ -36,12 +36,15 @@ Source Hugging Face : https://huggingface.co/datasets/Whispering-GPT/lex-fridman
 
 GPT2-Simple - Foundational Model
 
-GPT2 Finetuned - 
+GPT2 Finetuned - We have Fine-tuned the Foundational Model using the Dataset of Lex Fridman Podcast. We have experimented with models 124M and 774M of GPT2.
 
-GPT 3.5 Turbo -  is used to provide a character summary with names and attributes, as well as the text in a manuscript format. The character attributes are then compared with the attributes from a set of ElevenLabs voices, and the most appropriate voice is chosen for each character. The transcribed text is then read line by line using TTS by either the narrator or the character who is speaking.
+GPT 3.5 Turbo -  is used to provide a character summary with names and attributes, as well as the text in a manuscript format. The character attributes are then compared with the attributes from a set of ElevenLabs voices
 
-ElevanLabs TTS
+ElevanLabs TTS - The most appropriate voice is chosen for each character. The transcribed text is then read line by line using Text-to-Speech(TTS) by either the narrator or the character who is speaking.
 
+Metrics Used
+
+Bleu Score : 0.03
 
 ## Usage
 
