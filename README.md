@@ -46,6 +46,22 @@ Metrics Used
 
 Bleu Score : 0.03
 
+## Experiments
+We Have experimented with two datasets:
+
+Hugging Face - 
+
+Source: 
+
+Colab Link: 
+
+Harry Potter Book Series - 
+
+Source: http://www.glozman.com/textpages.html
+
+Colab Link: 
+
+
 ## Usage
 
 
