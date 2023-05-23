@@ -2,3 +2,5 @@ Installations
 !pip install datasets --q
 !pip install -q gpt-2-simple
 !nvidia-smi
+!pip install pydub
+!pip install openai
