@@ -5,7 +5,10 @@ In recent times, audio generation has gained significant popularity and relevanc
 ## Dataset 
 
 This dataset is created by applying whisper to the videos of the Youtube channel Lex Fridman Podcast. The dataset was created a medium size whisper model.
+
+
 Data Fields
+
 The dataset is composed by:
 
 id: Id of the youtube video.
