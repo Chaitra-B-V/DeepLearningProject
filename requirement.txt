@@ -4,3 +4,4 @@ Installations
 !nvidia-smi
 !pip install pydub
 !pip install openai
+!pip install gender_guesser
