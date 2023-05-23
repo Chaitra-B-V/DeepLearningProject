@@ -24,8 +24,12 @@ Source Hugging Face : https://huggingface.co/datasets/Whispering-GPT/lex-fridman
 
 ## Models
 
+GPT2-Simple - Foundational Model
+
 GPT2 Finetuned
+
 GPT 3.5 Turbo
+
 ElevanLabs TTS
 
 
