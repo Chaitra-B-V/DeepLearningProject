@@ -9,15 +9,25 @@ Data Fields
 The dataset is composed by:
 
 id: Id of the youtube video.
+
 channel: Name of the channel.
+
 channel_id: Id of the youtube channel.
+
 title: Title given to the video.
+
 categories: Category of the video.
+
 description: Description added by the author.
+
 text: Whole transcript of the video.
+
 segments: A list with the time and transcription of the video.
+
 start: When started the trancription.
+
 end: When the transcription ends.
+
 text: The text of the transcription.
 
 Source Hugging Face : https://huggingface.co/datasets/Whispering-GPT/lex-fridman-podcast
