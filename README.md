@@ -1,8 +1,32 @@
-# The AI Podcaster's Secret: Leveraging Finetuned GPT-2 for Exceptional Audio Productions
+# The AI Podcaster's Secret: Leveraging Finetuned GPT-2 for Audio Productions
+
 ## Abstract
 In recent times, audio generation has gained significant popularity and relevance due to its ability to deliver engaging and immersive content experiences. With the advancement of technology, including the application of finetuned GPT models, audio generation has become an effective tool for creating text-based content specifically tailored for podcasts. By leveraging these models, content creators can generate podcast scripts, dialogues, and narratives that are optimized for spoken delivery, enhancing the overall quality and appeal of their audio productions. This allows for efficient and streamlined podcast creation, enabling creators to focus on crafting compelling stories and discussions while maximizing the potential of their audio platforms.
+## Dataset 
 
+This dataset is created by applying whisper to the videos of the Youtube channel Lex Fridman Podcast. The dataset was created a medium size whisper model.
+Data Fields
+The dataset is composed by:
 
+id: Id of the youtube video.
+channel: Name of the channel.
+channel_id: Id of the youtube channel.
+title: Title given to the video.
+categories: Category of the video.
+description: Description added by the author.
+text: Whole transcript of the video.
+segments: A list with the time and transcription of the video.
+start: When started the trancription.
+end: When the transcription ends.
+text: The text of the transcription.
+
+Source Hugging Face : https://huggingface.co/datasets/Whispering-GPT/lex-fridman-podcast
+
+## Models
+
+GPT2 Finetuned
+GPT 3.5 Turbo
+ElevanLabs TTS
 
 
 ## Usage
