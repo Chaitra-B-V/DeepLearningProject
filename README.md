@@ -36,9 +36,9 @@ Source Hugging Face : https://huggingface.co/datasets/Whispering-GPT/lex-fridman
 
 GPT2-Simple - Foundational Model
 
-GPT2 Finetuned
+GPT2 Finetuned - 
 
-GPT 3.5 Turbo
+GPT 3.5 Turbo -  is used to provide a character summary with names and attributes, as well as the text in a manuscript format. The character attributes are then compared with the attributes from a set of ElevenLabs voices, and the most appropriate voice is chosen for each character. The transcribed text is then read line by line using TTS by either the narrator or the character who is speaking.
 
 ElevanLabs TTS
 
