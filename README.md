@@ -40,6 +40,7 @@ Source Hugging Face : https://huggingface.co/datasets/Whispering-GPT/lex-fridman
 GPT2-Simple - Foundational Model
 
 GPT2 Finetuned - We have Fine-tuned the Foundational Model using the Dataset of Lex Fridman Podcast. We have experimented with models 124M and 774M of GPT2.
+**Finetuned Model Link:** https://drive.google.com/file/d/1oxuiNOPsU4XT286Jlpl-ZypkI_pwc9WQ/view?usp=share_link
 
 GPT 3.5 Turbo -  is used to provide a character summary with names and attributes, as well as the text in a manuscript format. The character attributes are then compared with the attributes from a set of ElevenLabs voices
 
